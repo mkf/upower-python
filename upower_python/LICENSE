@@ -1,3 +1,12 @@
+The work contained within *this very* directory was originally published under
+the URL https://github.com/wogscpar/upower-python with the undermentioned
+conditional permission granted. It underwent no anyhow significant alterations
+by me, besides moving the README.md and LICENSE inside the package directory,
+and removal of a .PYC file. 
+-- Michał Krzysztof Feiler
+
+========
+
 MIT License
 
 Copyright (c) 2017 Oscar Svensson (wogscpar)
